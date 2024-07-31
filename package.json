@@ -1,0 +1,19 @@
+{
+  "name": "@narcisocorreia/gpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/narcisocorreia/gpc"
+  },
+  "author": "Narciso Correia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narcisocorreia/gpc/issues"
+  },
+  "homepage": "https://github.com/narcisocorreia/gpc#readme",
+  "description": ""
+}

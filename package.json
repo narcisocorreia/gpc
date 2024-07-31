@@ -15,5 +15,8 @@
     "url": "https://github.com/narcisocorreia/gpc/issues"
   },
   "homepage": "https://github.com/narcisocorreia/gpc#readme",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
